@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		7A0B3745251272C4002D3A6B /* SHEEESH.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7A0B3744251272C4002D3A6B /* SHEEESH.wav */; };
 		7A1CC066251282BB008FD315 /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F122CB513D007F0F9A /* B.wav */; };
+		7A1CC0682512C125008FD315 /* Evisu.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7A1CC0672512C125008FD315 /* Evisu.wav */; };
+		7A1CC06A2512D14D008FD315 /* Stop.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7A1CC0692512D14D008FD315 /* Stop.wav */; };
 		AD937BF622C61DBB002E2D88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF522C61DBB002E2D88 /* AppDelegate.swift */; };
 		AD937BF822C61DBB002E2D88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */; };
 		AD937BFA22C61DBB002E2D88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF922C61DBB002E2D88 /* ViewController.swift */; };
@@ -24,6 +26,8 @@
 
 /* Begin PBXFileReference section */
 		7A0B3744251272C4002D3A6B /* SHEEESH.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SHEEESH.wav; sourceTree = "<group>"; };
+		7A1CC0672512C125008FD315 /* Evisu.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Evisu.wav; sourceTree = "<group>"; };
+		7A1CC0692512D14D008FD315 /* Stop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Stop.wav; sourceTree = "<group>"; };
 		AD937BF222C61DBB002E2D88 /* abdul's sexy voice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "abdul's sexy voice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD937BF522C61DBB002E2D88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -91,6 +95,8 @@
 				ADE587F022CB513D007F0F9A /* F.wav */,
 				ADE587ED22CB513C007F0F9A /* G.wav */,
 				7A0B3744251272C4002D3A6B /* SHEEESH.wav */,
+				7A1CC0692512D14D008FD315 /* Stop.wav */,
+				7A1CC0672512C125008FD315 /* Evisu.wav */,
 				ADE587F122CB513D007F0F9A /* B.wav */,
 			);
 			path = Sounds;
@@ -161,8 +167,10 @@
 				ADE587EB22CB5121007F0F9A /* LaunchScreen.storyboard in Resources */,
 				ADE587F922CB513D007F0F9A /* D.wav in Resources */,
 				ADE587F522CB513D007F0F9A /* C.wav in Resources */,
+				7A1CC0682512C125008FD315 /* Evisu.wav in Resources */,
 				7A0B3745251272C4002D3A6B /* SHEEESH.wav in Resources */,
 				ADE587F622CB513D007F0F9A /* E.wav in Resources */,
+				7A1CC06A2512D14D008FD315 /* Stop.wav in Resources */,
 				AD937BFD22C61DBB002E2D88 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
