@@ -4,4 +4,4 @@ ios Sound board so that even when hes not around you can still hear the abdul's 
 
 I thought he had more till i made this but what can ya do
 
-not 100% done, still needs abduls recordings, and i only have one song on it. functionality is complete... will probabaly be finished christmas 2020 
+not 100% done, still needs abduls recordings, and i only have one song on it. functionality is complete... will he will prob record before christmas 2020 but otherwise its done
